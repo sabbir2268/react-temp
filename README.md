@@ -1,12 +1,19 @@
-# React + Vite
+<h1>Front End Template</h1>
+For beginning a React project with a professional file structure and a ready-to-use project with integrated Google fonts, Tailwind, and react-router.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Already Integrated</h2>
+<ul>
+  <li>Google Fonts</li>
+  <li>Tailwind + DaisyUI</li>
+  <li>React Router</li>
+</ul>
 
-Currently, two official plugins are available:
+<h1>
+  How to use
+</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<ol>
+  <li>use this template and create a new repository</li>
+  <li>Install all the packages and dependencies by running this command: <h1>npm i</h1> </li>
+  <li>Do changes as you wish and push to GitHub in your own repository</li>
+</ol>
